@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "categoryCode": "gdk",
+      "storeCategoryId": {},
+      "title": "KODAK PIXPRO AZ525",
+      "subtitle": {},
+      "pageTemplate": 1,
+      "description": "KODAK PIXPRO AZ525 16 MEGAPIKSEL",
+      "startDate": {},
+      "catalogId": {},
+      "catalogDetail": {},
+      "catalogFilter": {},
+      "format": "S",
+      "startPrice": {},
+      "buyNowPrice": 150,
+      "netEarning": {},
+      "listingDays": 30,
+      "productCount": 1,
+      "affiliateOption": "false",
+      "boldOption": "false",
+      "catalogOption": "false",
+      "vitrineOption": "false",
+      "globalTradeItemNo": {},
+      "manufacturerPartNo": {},
+      "productId": 642028049,
+      "marketPrice": 999999,
+      "itemId": {},
+      "price": 4.8,
+      "stock": 50,
+      "variantId": 172579388,
+      "cancelBid": true,
+      "onSale": false,
+      "forceToSpecEntry": false,
+      "nextDateOption": false,
+      "variant": true
+    }
+  ]
+}

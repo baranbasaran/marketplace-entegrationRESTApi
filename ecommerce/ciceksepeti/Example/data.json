@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "productName": "Test Urunu",
+      "mainProductCode": "testmain2",
+      "stockCode": "test2",
+      "categoryId": 13349,
+      "description": "test acıklaması",
+      "mediaLink": "test",
+      "deliveryMessageType": 4,
+      "deliveryType": 3,
+      "stockQuantity": 25,
+      "salesPrice": 56.99,
+      "listPrice": 99.99,
+      "barcode": "test123",
+      "images": ["test-test-kc6500945-1-392bf4631cf04904a3f0df31a6c10642.jpg"],
+      "attributes": [
+        {
+          "id": 2000353,
+          "valueId": 2010697,
+          "textLength": 0
+        },
+        {
+          "id": 13,
+          "valueId": 143,
+          "textLength": 0
+        },
+        {
+          "id": 3,
+          "valueId": 191,
+          "textLength": 25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "entegrationapi",
+  "version": "1.0.0",
+  "description": "Online eticaret siteleri icin entegrasyon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node app",
+    "watch": "nodemon app --ignore public/",
+    "dev": "nodemon app.js"
+  },
+  "author": "Ertugrul Berat ALLAHVERDI / Baran BASARAN",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koajs": "^1.0.0",
+    "luxon": "^1.25.0",
+    "nodemon": "^2.0.6",
+    "xml2js": "^0.4.23"
+  }
+}

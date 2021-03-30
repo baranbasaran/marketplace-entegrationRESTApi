@@ -1,0 +1,39 @@
+{
+  "items": [{
+    "barcode": "DLDGNGBBLK12301",
+    "title": "Yeni El yapımı - şık tasarımlı - anti alarjen - ayarlanabilir 3 boylu - outdoor bileklik",
+    "productMainId": "BLK12301",
+    "brandId": 985259,
+    "categoryId": 3215,
+    "quantity": 1,
+    "stockCode": "SKU0000011",
+    "dimensionalWeight": 2,
+    "description": "Ürün açıklama bilgisi",
+    "currencyType": "TRY",
+    "listPrice": 128.99,
+    "salePrice": 78.99,
+    "vatRate": 18,
+    "cargoCompanyId": 10,
+    "shipmentAddressId": 304158,
+    "returningAddressId": 304159,
+    "images": [{
+      "url": "https://marketplace-single-product-images.oss-eu-central-1.aliyuncs.com/prod/180862/ae9cd187-ed53-4232-aba7-5ace1c44a488/Bordo - Siyah - Gri 1200x1800 Resimler (6).jpg"
+    }],
+    "attributes": [{
+      "attributeId": 343,
+      "attributeValueId": 4294
+    }, {
+      "attributeId": 346,
+      "attributeValueId": 4292
+    }, {
+      "attributeId": 377,
+      "attributeValueId": 18093
+    }, {
+      "attributeId": 47,
+      "customAttributeValue": "2 Renk"
+    }, {
+      "attributeId": 338,
+      "attributeValueId": 6821
+    }]
+  }]
+}
